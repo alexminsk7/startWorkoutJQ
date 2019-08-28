@@ -32,3 +32,14 @@ body {
 .tab-content-1 {
 	display: block;
 }
+form {
+	margin-top: 40px;
+	height: 200px;
+	padding: 10px;
+	display: block;
+	background-color: rgba(0, 0, 0, .2);
+	text-align: center;
+}
+form input {
+	margin-bottom: 10px;
+}
